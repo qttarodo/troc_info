@@ -1,0 +1,65 @@
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+/* LANDING PAGE */
+.landing-icon
+{
+ font-size: 3em;
+ margin-left: 25px;
+ margin-right: 25px;
+
+}
+
+/* FORMULAIRES CONNEXION/INSCRIPTION */
+
+.form_log{
+    margin: 50px auto;
+}
+
+
+/* NAVBAR */
+
+.icon-user-navbar{
+    font-size: 1.5em;
+    color: aliceblue
+}
+.icon-user-navbar:hover{
+    color: #17a2b8;
+}
+
+
+.form_index{
+    margin: 50px auto;
+}
+
+/* FORMULAIRE PAGE COMTPTE USER*/
+
+.input-solde{
+    width: 100px;
+}
+
+/* ADMIN */
+
+.icon_admin{
+    font-size: 1.5em;
+    color: darkblue;
+}
+
+.icon_admin:hover{
+    color: #17a2b8;
+}
+
+.table_admin{
+    margin: 50px auto;
+}
